@@ -69,13 +69,13 @@ Here are some ideas to get you started:
   </a>
  </p>
  
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo: <hr/>
 ![](https://github-contributor-stats.vercel.app/api?username=foysal619&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies: <hr/>
 ![](https://github-profile-trophy.vercel.app/?username=foysal619&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Quote: <hr/>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
@@ -87,10 +87,10 @@ Here are some ideas to get you started:
 <hr/>
 
 <p align="center">
-<a href="https://about.me/musfiqur.rahman"><img alt="PortFolio" src="https://img.shields.io/badge/musfiqur.rahman-Portfolio-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/foysal619/"><img alt="LinkedIn" src="https://img.shields.io/badge/foysal619-linkedIn-brightgreen?style=flat-square&logo=linkedin"></a>
-<a href="https://www.facebook.com/musfiq8008/"><img alt="Facebook" src="https://img.shields.io/badge/Musfiqur Rahman Foysal-facebook-blue?style=flat&logo=facebook"></a>
-<a href="mailto:musfiqurrahmanfoysal77@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-musfiqurrahmanfoysal77@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://about.me/musfiqur.rahman"><img alt="PortFolio" src="https://img.shields.io/badge/Musfiqur Rahman Foysal-Portfolio-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/foysal619/"><img alt="LinkedIn" src="https://img.shields.io/badge/foysal619-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.facebook.com/musfiq8008/"><img alt="Facebook" src="https://img.shields.io/badge/Musfiqur Rahman Foysal-Facebook-blue?style=flat&logo=facebook"></a>
+<a href="mailto:musfiqurrahmanfoysal77@gmail.com"><img alt="email" src="https://img.shields.io/badge/Email-musfiqurrahmanfoysal77@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 <br/>
