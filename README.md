@@ -69,7 +69,15 @@ Here are some ideas to get you started:
   </a>
  </p>
  
- <hr/>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=foysal619&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=foysal619&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 
   <h3  align="center"  > Visit my  <a target="_blank"  href="https://about.me/musfiqur.rahman" > [Portfolio]</a>  </h3> 
   
@@ -90,6 +98,7 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
+
 
 <!--
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
