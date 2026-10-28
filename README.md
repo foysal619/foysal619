@@ -34,6 +34,12 @@ I am a Software QA Engineer at **MIAKI**, based in Dhaka, Bangladesh. My work sp
 | [k6 Performance Engineering](https://github.com/foysal619/k6-performance-engineering) | Risk-based smoke, load, and spike profiles with SLO thresholds, business metrics, and CI reports | Grafana k6 · JavaScript · SLOs |
 | [Quality Engineering CI/CD Blueprint](https://github.com/foysal619/quality-engineering-ci-cd-blueprint) | Evidence-driven quality gates, BuildKit container validation, reusable workflows, and an explicit release decision | GitHub Actions · Docker · Node.js |
 
+### Advanced quality labs
+
+- **[Microservices Contract Testing Lab](https://github.com/foysal619/microservices-contract-testing-lab)** — consumer-driven Pact contracts, real provider verification, provider states, and an optional local Pact Broker stack.
+- **[Accessibility & Visual Quality Gates](https://github.com/foysal619/accessibility-visual-quality-gates)** — WCAG scanning, keyboard journeys, ARIA snapshots, and pixel-stable Playwright visual regression.
+- **[Test Impact & Flaky-Test Toolkit](https://github.com/foysal619/test-impact-and-flaky-test-toolkit)** — changed-file suite selection, duration-aware sharding, and evidence-based flaky-test release policy as a CLI and reusable Action.
+
 ## Quality engineering toolbox
 
 **Automation & testing**
